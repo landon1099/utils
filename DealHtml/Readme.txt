@@ -1,7 +1,7 @@
-0¡¢ÅäÖÃDealHtml.bat
-1¡¢½«html´úÂëÕ³Ìùµ½deal_html.txtÖÐ
-2¡¢ÔËÐÐDealHtml.bat
-3¡¢Éú³ÉµÄDOM½Úµã´úÂëÔÚdeal_html_result.txt
+0ã€é…ç½®æ‰¹å¤„ç†æ–‡ä»¶DealHtml.batï¼ˆå¯ç›´æŽ¥ä½¿ç”¨ideæ–¹å¼ï¼‰
+1ã€å°†htmlä»£ç ç²˜è´´åˆ°deal_html.txtä¸­
+2ã€è¿è¡ŒDealHtml.bat
+3ã€ç”Ÿæˆçš„DOMèŠ‚ç‚¹ä»£ç åœ¨deal_html_result.txt
 
-×¢Òâ£º
-	Á½¸öÎÄ±¾±ØÐëÊ¹ÓÃ ANSI ¸ñÊ½±£´æ£¡·ñÔò»áÓÐÂÒÂë
+æ³¨æ„ï¼š
+	ä¸¤ä¸ªæ–‡æœ¬å¿…é¡»ä½¿ç”¨ ANSI æ ¼å¼ä¿å­˜ï¼å¦åˆ™ä¼šæœ‰ä¹±ç 
