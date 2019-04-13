@@ -1,9 +1,8 @@
 *.svn
-
 *.project
-
 *.classpath
-
 *.settings
-
-classes/
+*.myeclipse
+*.mymetadata
+**/META-INF/
+**/classes/
