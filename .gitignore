@@ -1,4 +1,9 @@
-.svn
-.project
-.classpath
-.settings
+*.svn
+
+*.project
+
+*.classpath
+
+*.settings
+
+classes/
