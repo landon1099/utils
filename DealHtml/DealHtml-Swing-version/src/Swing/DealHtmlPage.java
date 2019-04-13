@@ -9,7 +9,6 @@ import java.nio.charset.Charset;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
 import javax.swing.WindowConstants;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
@@ -26,7 +25,7 @@ public class DealHtmlPage {
 		
 		// 创建一个 * 行 * 列的文本区域
 		final TextArearMenu  oldText = new TextArearMenu();
-		oldText.setFont(new Font("Consolas", Font.BOLD, 16));
+		oldText.setFont(new Font(null, Font.BOLD, 17));
 		// 设置自动换行
 		oldText.setLineWrap(true);
 		// 设置滚动
@@ -37,7 +36,7 @@ public class DealHtmlPage {
 		panel.add(scrollOld);
 		
 		final TextArearMenu newText = new TextArearMenu();
-		newText.setFont(new Font("Consolas", Font.BOLD, 16));
+		newText.setFont(new Font(null, Font.BOLD, 17));
 		newText.setLineWrap(true);
 		JScrollPane scrollNew = new JScrollPane(newText);
 		scrollNew.setBounds(610, 0, 600, 600);
@@ -62,7 +61,7 @@ public class DealHtmlPage {
 			}
 		};
 		oldText.getDocument().addDocumentListener(listener);
-		
+
 		frame.setContentPane(panel);
 		frame.setVisible(true);
 	}
