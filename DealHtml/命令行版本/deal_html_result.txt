@@ -1,0 +1,12 @@
+		"<table width='100%'>" +
+			"<tr>" +
+				"<td>" +
+					"<a style='display:none;' onclick='javascript:closeUI();'></a>" +
+				"</td>" +
+			"</tr>" +
+			"<tr>" +
+				"<td>" +
+					"转换html，生成动态添加节点代码" +
+				"</td>" +
+			"</tr>" +
+		"</table>" +
