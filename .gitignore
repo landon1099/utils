@@ -6,3 +6,5 @@
 *.mymetadata
 **/META-INF/
 **/classes/
+*.myumldata
+DealHtml/DealHtml-Swing-version/bin/
