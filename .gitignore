@@ -8,3 +8,4 @@
 **/classes/
 *.myumldata
 DealHtml/DealHtml-Swing-version/bin/
+**/bin/
