@@ -4,6 +4,7 @@
 *.settings
 *.myeclipse
 *.mymetadata
+*.idea
 **/META-INF/
 **/classes/
 *.myumldata
